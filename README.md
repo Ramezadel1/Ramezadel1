@@ -33,14 +33,14 @@ Friendly Layout --- ## 📚 Currently Learning - Advanced Laravel - REST API
 Development - Authentication & Authorization - OOP & SOLID Principles - Clean
 Architecture --- ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ramez-adel-27360933a" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/ramez-adel-27360933a" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  <a href="https://github.com/Ramezadel1" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Ramezadel1" target="_blank" >
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  <a href="mailto:ramezadel851@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" height="45"/> </a>
-  <a href="https://wa.me/201124073131" target="_blank" rel="noopener noreferrer"> 
+  <a href="mailto:ramezadel851@gmail.com" target="_blank" > <img src="https://skillicons.dev/icons?i=gmail" height="45"/> </a>
+  <a href="https://wa.me/201124073131" target="_blank" > 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="45"/> 
   </a>
 </p>
