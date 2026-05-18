@@ -20,18 +20,7 @@ projects within a strong development team. --- ## 🛠️ Tech Stack
     src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,bootstrap,javascript,git,github,vscode"
   />
 </div>
---- ## 💼 Featured Projects ### 📰 Personal Blog Web Application A complete
-full-stack blog system built using PHP & MySQL. ✨ Features: - User
-Authentication & Authorization - CRUD Operations - Pagination System - Image
-Upload & Management - Responsive UI - Prepared Statements for Security -
-Relational Database Design --- ### 📊 Dashboard Template Responsive admin
-dashboard interface built with HTML & CSS. ✨ Features: - Reusable UI Components
-- Responsive Layout - Flexbox & CSS Grid - Clean Modern Design --- ### 🌐 Web
-System Interface Responsive multi-page web system using Bootstrap. ✨ Features:
-- Responsive Design - Bootstrap Components - Multi-page Structure - Mobile
-Friendly Layout --- ## 📚 Currently Learning - Advanced Laravel - REST API
-Development - Authentication & Authorization - OOP & SOLID Principles - Clean
-Architecture --- ## 🤝 Connect With Me
+--- ## 💻 What I Do 🔹 Build secure and responsive web applications using PHP & MySQL 🔹 Develop back-end systems following OOP, SOLID principles & MVC architecture 🔹 Create clean and maintainable code with focus on performance and scalability 🔹 Design responsive user interfaces using Bootstrap, Tailwind CSS, HTML & CSS 🔹 Work with databases, authentication systems, CRUD operations & REST APIs 🔹 Use Git & GitHub for version control and collaborative development --- ## 🧠 Knowledge & Concepts ✔️ Laravel Framework ✔️ RESTful API Development ✔️ Authentication & Authorization Systems ✔️ Object-Oriented Programming (OOP) ✔️ SOLID Principles & Clean Code ✔️ MVC Architecture & Design Patterns ✔️ Database Design & Optimization ✔️ Responsive Web Design --- ## 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/ramez-adel-27360933a" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
